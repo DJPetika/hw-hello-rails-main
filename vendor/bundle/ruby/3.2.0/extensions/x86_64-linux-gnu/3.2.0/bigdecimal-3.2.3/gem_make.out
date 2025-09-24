@@ -22,17 +22,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.3/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-8lni2y sitelibdir\=./.gem.20250923-1876-8lni2y clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-oh8t1 sitelibdir\=./.gem.20250924-243285-oh8t1 clean
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.3/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-8lni2y sitelibdir\=./.gem.20250923-1876-8lni2y
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-oh8t1 sitelibdir\=./.gem.20250924-243285-oh8t1
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.3/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-8lni2y sitelibdir\=./.gem.20250923-1876-8lni2y install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250923-1876-8lni2y
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-oh8t1 sitelibdir\=./.gem.20250924-243285-oh8t1 install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250924-243285-oh8t1
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.3/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-8lni2y sitelibdir\=./.gem.20250923-1876-8lni2y clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-oh8t1 sitelibdir\=./.gem.20250924-243285-oh8t1 clean

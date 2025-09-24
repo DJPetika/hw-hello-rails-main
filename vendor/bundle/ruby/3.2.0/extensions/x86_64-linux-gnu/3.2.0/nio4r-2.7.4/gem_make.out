@@ -13,10 +13,10 @@ checking for sys/resource.h... yes
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-l7axpg sitelibdir\=./.gem.20250923-1876-l7axpg clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-ozxvd5 sitelibdir\=./.gem.20250924-243285-ozxvd5 clean
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-l7axpg sitelibdir\=./.gem.20250923-1876-l7axpg
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-ozxvd5 sitelibdir\=./.gem.20250924-243285-ozxvd5
 compiling bytebuffer.c
 compiling monitor.c
 compiling nio4r_ext.c
@@ -46,8 +46,8 @@ selector.c:525:5: warning: ignoring return value of ‘write’ declared with at
 linking shared-object nio4r_ext.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-l7axpg sitelibdir\=./.gem.20250923-1876-l7axpg install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20250923-1876-l7axpg
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-ozxvd5 sitelibdir\=./.gem.20250924-243285-ozxvd5 install
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20250924-243285-ozxvd5
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-l7axpg sitelibdir\=./.gem.20250923-1876-l7axpg clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-ozxvd5 sitelibdir\=./.gem.20250924-243285-ozxvd5 clean

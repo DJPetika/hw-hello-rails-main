@@ -6,10 +6,10 @@ checking for altzone in time.h with  -Werror... no
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-ly765h sitelibdir\=./.gem.20250923-1876-ly765h clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rha2yr sitelibdir\=./.gem.20250924-243285-rha2yr clean
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-ly765h sitelibdir\=./.gem.20250923-1876-ly765h
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rha2yr sitelibdir\=./.gem.20250924-243285-rha2yr
 compiling date_core.c
 compiling date_parse.c
 compiling date_strftime.c
@@ -17,8 +17,8 @@ compiling date_strptime.c
 linking shared-object date_core.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-ly765h sitelibdir\=./.gem.20250923-1876-ly765h install
-/usr/bin/install -c -m 0755 date_core.so ./.gem.20250923-1876-ly765h
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rha2yr sitelibdir\=./.gem.20250924-243285-rha2yr install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20250924-243285-rha2yr
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-ly765h sitelibdir\=./.gem.20250923-1876-ly765h clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rha2yr sitelibdir\=./.gem.20250924-243285-rha2yr clean

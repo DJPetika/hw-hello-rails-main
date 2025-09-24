@@ -10,16 +10,16 @@ checking for cpuid.h... yes
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/json-2.15.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-e32i4d sitelibdir\=./.gem.20250923-1876-e32i4d clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-9qc98c sitelibdir\=./.gem.20250924-243285-9qc98c clean
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/json-2.15.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-e32i4d sitelibdir\=./.gem.20250923-1876-e32i4d
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-9qc98c sitelibdir\=./.gem.20250924-243285-9qc98c
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/json-2.15.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-e32i4d sitelibdir\=./.gem.20250923-1876-e32i4d install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20250923-1876-e32i4d/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-9qc98c sitelibdir\=./.gem.20250924-243285-9qc98c install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250924-243285-9qc98c/json/ext
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/json-2.15.0/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-e32i4d sitelibdir\=./.gem.20250923-1876-e32i4d clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-9qc98c sitelibdir\=./.gem.20250924-243285-9qc98c clean

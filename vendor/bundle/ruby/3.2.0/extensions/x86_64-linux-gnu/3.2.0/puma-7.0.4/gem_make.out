@@ -23,18 +23,18 @@ checking for SSL_get1_peer_certificate() in openssl/ssl.h... yes
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/puma-7.0.4/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-6la1xh sitelibdir\=./.gem.20250923-1876-6la1xh clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-r95z6c sitelibdir\=./.gem.20250924-243285-r95z6c clean
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/puma-7.0.4/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-6la1xh sitelibdir\=./.gem.20250923-1876-6la1xh
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-r95z6c sitelibdir\=./.gem.20250924-243285-r95z6c
 compiling http11_parser.c
 compiling mini_ssl.c
 compiling puma_http11.c
 linking shared-object puma/puma_http11.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/puma-7.0.4/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-6la1xh sitelibdir\=./.gem.20250923-1876-6la1xh install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20250923-1876-6la1xh/puma
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-r95z6c sitelibdir\=./.gem.20250924-243285-r95z6c install
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20250924-243285-r95z6c/puma
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/puma-7.0.4/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250923-1876-6la1xh sitelibdir\=./.gem.20250923-1876-6la1xh clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-r95z6c sitelibdir\=./.gem.20250924-243285-r95z6c clean

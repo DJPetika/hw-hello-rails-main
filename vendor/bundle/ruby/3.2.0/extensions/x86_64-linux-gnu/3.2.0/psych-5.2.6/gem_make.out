@@ -5,13 +5,13 @@ checking for yaml_get_version() in -lyaml... yes
 creating Makefile
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250923-3370-2z26ni sitelibdir\=./.gem.20250923-3370-2z26ni clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rst44o sitelibdir\=./.gem.20250924-243285-rst44o clean
 cd libyaml && make clean
 /bin/sh: 1: cd: can't cd to libyaml
 make: [Makefile:283: clean-so] Error 2 (ignored)
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250923-3370-2z26ni sitelibdir\=./.gem.20250923-3370-2z26ni
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rst44o sitelibdir\=./.gem.20250924-243285-rst44o
 compiling psych.c
 compiling psych_emitter.c
 compiling psych_parser.c
@@ -20,11 +20,11 @@ compiling psych_yaml_tree.c
 linking shared-object psych.so
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250923-3370-2z26ni sitelibdir\=./.gem.20250923-3370-2z26ni install
-/usr/bin/install -c -m 0755 psych.so ./.gem.20250923-3370-2z26ni
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rst44o sitelibdir\=./.gem.20250924-243285-rst44o install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20250924-243285-rst44o
 
 current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/psych-5.2.6/ext/psych
-make DESTDIR\= sitearchdir\=./.gem.20250923-3370-2z26ni sitelibdir\=./.gem.20250923-3370-2z26ni clean
+make DESTDIR\= sitearchdir\=./.gem.20250924-243285-rst44o sitelibdir\=./.gem.20250924-243285-rst44o clean
 cd libyaml && make clean
 /bin/sh: 1: cd: can't cd to libyaml
 make: [Makefile:283: clean-so] Error 2 (ignored)
