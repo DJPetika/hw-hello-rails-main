@@ -1,0 +1,18 @@
+current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250923-1876-vrkjvy sitelibdir\=./.gem.20250923-1876-vrkjvy clean
+
+current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250923-1876-vrkjvy sitelibdir\=./.gem.20250923-1876-vrkjvy
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250923-1876-vrkjvy sitelibdir\=./.gem.20250923-1876-vrkjvy install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250923-1876-vrkjvy/racc
+
+current directory: /home/djp/rottenpotatoes/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250923-1876-vrkjvy sitelibdir\=./.gem.20250923-1876-vrkjvy clean
