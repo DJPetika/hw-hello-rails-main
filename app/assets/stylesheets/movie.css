@@ -1,0 +1,35 @@
+h1, div {
+	color: gold;
+}
+
+a{
+	color: rgb(0, 185, 185);
+}
+a:visited{
+	color: rgb(179, 128, 0);
+}
+
+body {
+	background-color: maroon;
+}
+
+table {
+	table-layout: auto;
+  	border-collapse: collapse;
+	border: 2px solid maroon;
+	background-color: rgb(255, 246, 235);
+}
+
+th,td  {
+	border: 2px solid maroon;
+}
+
+.asc-dir
+{
+	background-color: rgb(205, 247, 205);
+}
+
+.desc-dir
+{
+	background-color: rgb(255, 211, 218);
+}

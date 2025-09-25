@@ -4,13 +4,25 @@
 
 <h1>Movies</h1>
 
-<div id="movies">
+ <table id="movies" >
+	<thead>
+		<th class="<%= direction_style('title')%>"
+			scope="col"><%= link_to "Title #{direction_symbol('title')}", movies_path(sort: 'title', direction: toggle_direction('title')) %></th>
+		<th class="<%= direction_style('rating')%>"
+			scope="col"><%= link_to "Rating #{direction_symbol('rating')}", movies_path(sort: 'rating', direction: toggle_direction('rating')) %></th>
+		<th 
+			scope="col">Description</th>
+		<th  class="<%= direction_style('release_date')%>"
+			scope="col"><%= link_to "Release Date #{direction_symbol('release_date')}", movies_path(sort: 'release_date', direction: toggle_direction('release_date')) %></th>
+	</thead>
+	<tbody>
   <% @movies.each do |movie| %>
-    <%= render movie %>
-    <p>
-      <%= link_to "Show this movie", movie %>
-    </p>
+   	<%= render movie %>
   <% end %>
-</div>
+	</tbody>
+	<tfoot class="gold">
+		<%= link_to "New movie", new_movie_path %>	
+	</tfoot>
+</table>
 
-<%= link_to "New movie", new_movie_path %>
+
